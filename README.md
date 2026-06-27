@@ -55,7 +55,7 @@ Interactive web application developed using **Streamlit**.
 
 *Predictive Modelling of Kidney Stones Using Clinical Urine and Blood Parameters*
 
-Accepted for publication in:
+Published in:
 
 **International Journal of Intelligent Systems and Applications in Engineering (IJISAE)**
 
@@ -85,7 +85,33 @@ Accepted for publication in:
 
 ## 📷 Project Screenshots
 
-(Add Streamlit UI screenshots here)
+## 🔄 Project Workflow
+
+![Project Workflow](images/Project_Workflow.png)
+
+---
+
+## 🌐 Streamlit Application
+
+![Streamlit UI](images/Streamlit_app_UI.png)
+
+---
+
+## 📊 Feature Importance
+
+![Feature Importance](images/Feature_Importance.png)
+
+---
+
+## 🏆 Model Performance Comparison
+
+![Model Comparison](images/Model_Comparison.png)
+
+---
+
+## 🔍 Confusion Matrix
+
+![Confusion Matrix](images/Confusion_matrix.png)
 
 ---
 
